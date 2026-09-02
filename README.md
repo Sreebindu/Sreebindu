@@ -35,12 +35,6 @@ I enjoy building, deploying, automating, and troubleshooting scalable cloud-nati
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github,linux" />
 </p>
 
-### 📊 Data Engineering & Big Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,kafka,spark" />
-</p>
-
 ### 🔄 Data & Workflow
 
 <p>
