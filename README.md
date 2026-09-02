@@ -1,10 +1,10 @@
 # Hi, I'm Sreebindu Rachapudi 👋
 
-### Senior Project Engineer | DevOps | Cloud | Data Engineering | Distributed Systems
+### Senior Project Engineer | DevOps | Cloud | Distributed Systems
 
-I'm a **Senior Project Engineer** with hands-on experience in **DevOps, Cloud Computing, Data Engineering, and Distributed Systems**.
+I'm a **Senior Project Engineer** with hands-on experience in **DevOps, Cloud Computing, Distributed Systems, and Team Management**.
 
-I enjoy building, deploying, automating, and troubleshooting scalable cloud-native infrastructure and data platforms.
+I enjoy building, deploying, automating, and troubleshooting **scalable cloud-native infrastructure platforms**.
 
 ---
 
@@ -18,6 +18,7 @@ I enjoy building, deploying, automating, and troubleshooting scalable cloud-nati
 * 🔎 Working with **logging, monitoring & observability**
 * 🐍 Building solutions using **Python & SQL**
 * 🏗️ Interested in **Distributed Systems & System Design**
+* 👥 Experience in **Team Management & Technical Coordination**
 
 ---
 
@@ -29,34 +30,50 @@ I enjoy building, deploying, automating, and troubleshooting scalable cloud-nati
   <img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
+**AWS • Microsoft Azure • Cloud Architecture**
+
+---
+
 ### ⚙️ DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,git,github,linux" />
 </p>
 
-### 🔄 Data & Workflow
+**Docker • Kubernetes • Jenkins • Terraform • Ansible • Bitbucket • Git • GitHub • Linux • CI/CD**
+
+---
+
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=airflow" />
-  <br>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/IBM%20Db2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-### 🗄️ Storage
+**MySQL • IBM Db2**
+
+---
+
+### 🗄️ Distributed Storage
 
 <p>
   <img src="https://img.shields.io/badge/Ceph-EF5B2D?style=for-the-badge&logo=ceph&logoColor=white" />
 </p>
 
+**Ceph • Distributed Storage • Cloud-Native Storage**
+
+---
+
 ### 🔎 Logging, Monitoring & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=elasticsearch" />
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Filebeat-00BFB3?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus" />
 </p>
+
+**Prometheus • Grafana • Elasticsearch • ITCAM • Tivoli**
+
+---
 
 ### 📡 Network Security & Traffic Analysis
 
@@ -66,11 +83,17 @@ I enjoy building, deploying, automating, and troubleshooting scalable cloud-nati
   <img src="https://img.shields.io/badge/PCAP-Network%20Traffic-444444?style=for-the-badge" />
 </p>
 
-### 📈 Analytics
+**Zeek • Suricata • PCAP • Network Traffic Analysis • IP Intelligence**
+
+---
+
+### 📊 Data & Streaming
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,kafka,spark" />
 </p>
+
+**Python • SQL • Apache Kafka • Apache Spark • PySpark**
 
 ---
 
@@ -85,7 +108,7 @@ I enjoy building, deploying, automating, and troubleshooting scalable cloud-nati
 ## 🔭 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,kafka,spark,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,kafka,spark,kubernetes" />
 </p>
 
 **Focus Areas:**
@@ -94,7 +117,7 @@ I enjoy building, deploying, automating, and troubleshooting scalable cloud-nati
 * Data Engineering
 * Cloud Architecture
 * Streaming Systems
-* Kubernetes
+* Kubernetes & Container Orchestration
 * Distributed Storage
 * System Design
 * Advanced SQL
@@ -106,7 +129,7 @@ I enjoy building, deploying, automating, and troubleshooting scalable cloud-nati
 
 ### ☁️ Cloud & DevOps
 
-Building and managing infrastructure using **AWS, Azure, Terraform, Docker, Kubernetes, Jenkins, and Linux**.
+Building and managing infrastructure using **AWS, Azure, Terraform, Docker, Kubernetes, Jenkins, Ansible, and Linux**.
 
 ### ⚡ Distributed Streaming
 
@@ -122,13 +145,17 @@ Working with architectures involving **PCAP, Kafka, Ceph, Zeek, Suricata, Elasti
 
 ### 🔎 Observability
 
-Building centralized **logging, monitoring, and observability** solutions using technologies such as **Elasticsearch, Logstash, Kibana, and Filebeat**.
+Building centralized **logging, monitoring, and observability** solutions using **Prometheus, Grafana, Elasticsearch, ITCAM, and Tivoli**.
+
+### 👥 Team Management
+
+Experience in **technical coordination, team collaboration, task management, and project execution**.
 
 ---
 
 ## 🎯 Career Goal
 
-> To build deep theoretical and practical expertise in **Cloud, DevOps, Data Engineering, Distributed Systems, and System Design**, and contribute to designing reliable, scalable, production-grade systems.
+> To build deep theoretical and practical expertise in **Cloud, DevOps, Data Engineering, Distributed Systems, and System Design**, while contributing to the design and implementation of reliable, scalable, production-grade systems.
 
 ---
 
@@ -136,7 +163,7 @@ Building centralized **logging, monitoring, and observability** solutions using 
 
 I'm interested in:
 
-**Cloud Computing • DevOps • Data Engineering • Distributed Systems • Big Data • System Design • Open Source**
+**Cloud Computing • DevOps • Distributed Systems • Data Engineering • Big Data • System Design • Observability • Open Source**
 
 Feel free to explore my repositories and connect with me! 🚀
 
@@ -145,4 +172,3 @@ Feel free to explore my repositories and connect with me! 🚀
 <p align="center">
   <i>Building systems. Learning continuously. Engineering at scale.</i>
 </p>
-
